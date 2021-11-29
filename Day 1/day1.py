@@ -4,3 +4,5 @@ input = open("input.txt", "r").readlines()
 for lineIndex in range(len(input)):
     line = input[lineIndex].strip()
     input[lineIndex] = line
+
+print(input)

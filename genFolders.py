@@ -13,3 +13,4 @@ def generate(days):
         inputFile.write("")
 
 generate(range(10))
+# generate(range(10, 25))
